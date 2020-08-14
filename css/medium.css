@@ -1,0 +1,31 @@
+/* @media (min-width: 768px) */
+
+.nav-mobile{
+    display: none;
+}
+.nav-desktop{
+    display: block;
+}
+.nav-desktop li{
+    list-style: none;
+    display: inline-block;
+}
+.nav-desktop li a{
+    padding: 30px;
+    /* background-color: red; */
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    transition: color .3s;
+}
+.nav-desktop li a:hover{
+    color: royalblue;
+}
+/* Main */
+.product-text h3{
+    font-size: 45px;
+}
+.section{
+    margin: 120px 0;
+}

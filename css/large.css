@@ -1,0 +1,38 @@
+/* @media (min-width: 992px) */
+/* Nav */
+.nav-desktop{
+    font-size: 20px;
+}
+/* Header */
+/* .hedaer-text{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+.header-text h1{
+    font-size: 40px;
+}
+.header-text p{
+    font-size: 23px;
+}
+.header-img{
+    background-image: url('../img/plumeria-4887944_1920.jpg');
+}
+.about-us{
+    font-size: 25px;
+}
+.main-product{
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    /* margin: 20px 0 0; */
+    background-size: cover;
+    background-position: center;
+    border: 1px solid rgb(146, 96, 255);
+    border-radius: 20px;
+    overflow: hidden;
+}
+footer{
+    font-size: 20px;
+}
